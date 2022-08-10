@@ -4,3 +4,9 @@ This is good tool for shortening a long URL to just 7 characters. The project is
 
 
 ![alt text](</screenshot/app.png?width=200&height=100>)
+
+## Built with
+* Golang
+* Redis
+* NextJS - JavaScript
+* Tailwind
