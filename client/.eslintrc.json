@@ -1,0 +1,4 @@
+// add babel
+{
+  "extends": ["next/core-web-vitals", "next/babel"]
+}
